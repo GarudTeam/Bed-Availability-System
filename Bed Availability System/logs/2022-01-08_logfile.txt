@@ -1,0 +1,2 @@
+2022-01-08 11:39:13.4101 INFO drink with id: 1 doesn't exist in the database.
+2022-01-08 11:40:08.5702 INFO drink with id: 1 doesn't exist in the database.

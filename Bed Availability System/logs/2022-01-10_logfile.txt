@@ -1,0 +1,4 @@
+2022-01-10 09:34:52.7184 INFO Reservation with id: 1 doesn't exist in the database.
+2022-01-10 10:30:14.8742 INFO Category with id: 1 doesn't exist in the database.
+2022-01-10 10:30:46.2614 INFO Category with id: 1 doesn't exist in the database.
+2022-01-10 10:30:50.8196 INFO Category with id: 1 doesn't exist in the database.

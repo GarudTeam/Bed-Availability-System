@@ -1,0 +1,17 @@
+C:\Users\yashr\OneDrive\Desktop\Bed Availability System\LoggerService\bin\Debug\net5.0\LoggerService.deps.json
+C:\Users\yashr\OneDrive\Desktop\Bed Availability System\LoggerService\bin\Debug\net5.0\LoggerService.dll
+C:\Users\yashr\OneDrive\Desktop\Bed Availability System\LoggerService\bin\Debug\net5.0\ref\LoggerService.dll
+C:\Users\yashr\OneDrive\Desktop\Bed Availability System\LoggerService\bin\Debug\net5.0\LoggerService.pdb
+C:\Users\yashr\OneDrive\Desktop\Bed Availability System\LoggerService\bin\Debug\net5.0\Contracts.dll
+C:\Users\yashr\OneDrive\Desktop\Bed Availability System\LoggerService\bin\Debug\net5.0\Contracts.pdb
+C:\Users\yashr\OneDrive\Desktop\Bed Availability System\LoggerService\obj\Debug\net5.0\LoggerService.csproj.AssemblyReference.cache
+C:\Users\yashr\OneDrive\Desktop\Bed Availability System\LoggerService\obj\Debug\net5.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yashr\OneDrive\Desktop\Bed Availability System\LoggerService\obj\Debug\net5.0\LoggerService.AssemblyInfoInputs.cache
+C:\Users\yashr\OneDrive\Desktop\Bed Availability System\LoggerService\obj\Debug\net5.0\LoggerService.AssemblyInfo.cs
+C:\Users\yashr\OneDrive\Desktop\Bed Availability System\LoggerService\obj\Debug\net5.0\LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\yashr\OneDrive\Desktop\Bed Availability System\LoggerService\obj\Debug\net5.0\LoggerService.csproj.CopyComplete
+C:\Users\yashr\OneDrive\Desktop\Bed Availability System\LoggerService\obj\Debug\net5.0\LoggerService.dll
+C:\Users\yashr\OneDrive\Desktop\Bed Availability System\LoggerService\obj\Debug\net5.0\ref\LoggerService.dll
+C:\Users\yashr\OneDrive\Desktop\Bed Availability System\LoggerService\obj\Debug\net5.0\LoggerService.pdb
+C:\Users\yashr\OneDrive\Desktop\Bed Availability System\LoggerService\bin\Debug\net5.0\Entities.dll
+C:\Users\yashr\OneDrive\Desktop\Bed Availability System\LoggerService\bin\Debug\net5.0\Entities.pdb
